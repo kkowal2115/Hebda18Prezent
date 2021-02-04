@@ -1,0 +1,36 @@
+body
+{
+    background-color: black;
+}
+
+
+.title{
+
+    color: white;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 64px;
+}
+
+.przyciski
+{
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+}
+
+a
+{
+    margin-right: 5%;
+}
+
+
+
+.btn {
+    height: 75px;
+    width: 150px;
+    font-weight: bold;
+}
